@@ -1,0 +1,1 @@
+{"id":"256e74d2-1b5f-4818-a180-9e3f7eca742f","space":23322,"runtime":"python3.9","name":"proyecto","path":"n6pl0q","project":"b0falkjp","account":"144798365827","region":"sa-east-1","deps":["fastapi","mysql-connector"],"envs":null,"public":true,"log_level":"debug","cron":""}
